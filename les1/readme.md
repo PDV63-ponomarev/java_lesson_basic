@@ -9,7 +9,7 @@ void - метод ничего не возвращает
 передаваемый в java из командной строки
 
 static метод можно вызвать через класс
-HelloWorld.main()
+UserInput.main()
 
 при выполнении программы, выполняет метод с именем main
 
@@ -21,5 +21,5 @@ HelloWorld.main()
 - Java должна быть в path
 
 Выполнение кода из командной стройки:
-1) компиляция кода: javac les1\src\HelloWorld.java
-2) выполнение скомпилированого кода: java HelloWorld
+1) компиляция кода: javac les1\src\UserInput.java
+2) выполнение скомпилированого кода: java UserInput
