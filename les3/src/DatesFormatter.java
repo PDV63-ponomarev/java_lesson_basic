@@ -23,5 +23,6 @@ public class DatesFormatter {
         String mayOfYear = mayOfYearFormat.format(currentDate);
         System.out.println("Сегодня месяц: " + mayOfYear);
     }
+
 }
 
